@@ -3,6 +3,12 @@
 高校で物理を教え、公認心理師でもあります。放課後に一人で、半年で 182 の repo を作りました。51 本が今月も動いています。夜のあいだは AI が 30 本余りを進め、朝に報告が 1 本届きます。その全部を、ひとつの決まりで回しています。AI の自己採点は証拠に数えない。
 I teach high-school physics and hold a national license as a Certified Public Psychologist. After hours, alone, I built 182 repos in six months; 51 of them are still moving this month. At night an AI advances thirty of them and sends me one report by morning. All of it runs under one rule: an AI's self-report is not evidence.
 
+## 主線
+
+- [kokoro-mcp](https://github.com/akihidem/kokoro-mcp): 公認心理師の見立てを AI が読める形に翻訳する規格 KOKORO の配信サーバ（npm 公開）
+- [jibun-kit](https://github.com/akihidem/jibun-kit): 自分のデジタル足跡から、人間と AI が同じ原本を読む自己理解 Markdown（jibun.md）を生成するキット
+- [your-own-mod](https://github.com/akihidem/your-own-mod): kokoro.md / torisetsu.md から Claude Code 用フックプラグインを提案する道具
+
 ## 数字
 
 - repo 182（2026 年 4 月から。公開 27）、commit 5,261、この 30 日で手を入れた repo 51
